@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Spring,SpringBoot**
 
-- 📫 How to reach me **snehaupparbawade@gmail.com**
+- 📫 How to reach me **anujasalunkhe82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
